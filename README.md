@@ -1,3 +1,3 @@
 Hello!
 
-I am Computer Science student at University of Tartu.
+I am Computer Science graduate from University of Tartu.
